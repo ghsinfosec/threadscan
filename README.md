@@ -3,8 +3,8 @@
 Threadscan is a threaded port scanner inspired by The Cyber Mentor's course Practical Ethical Hacker. In the course, Heath writes a simple python port scanner and I liked it so I wanted to make a threaded version of it. I had some difficulty with the threading implementation so I took some functionality from [Threader3000](https://github.com/dievus/threader3000) by The Mayor to make it work. Some of the code is my own, though I do not take full credit. This is simply my approach with references where needed.
 
 ## Requirements
-> Python3
-> Pyperclip
+Python3
+Pyperclip
 
 I will not include a requirements.txt since pyperclip is the only special requirement. Install pyperclip by typing:
 
