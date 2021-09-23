@@ -25,7 +25,7 @@ sudo ln -s $(pwd)/threadscan.py /usr/local/bin/threadscan
 ```
 
 ## Usage
-Threadscan takes one arguement, which is the IP or hostname you wish to scan:
+Threadscan takes one argument, which is the IP or hostname you wish to scan:
 
 ```bash
 threadscan <ip|hostname>
